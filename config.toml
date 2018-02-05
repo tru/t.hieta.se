@@ -1,0 +1,4 @@
+baseURL = "http://t.hieta.se/"
+languageCode = "en-us"
+title = "Tobias Hieta"
+theme = "temple"
